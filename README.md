@@ -1,2 +1,3 @@
-# project-1
-new project just for training
+# Lab 1
+first lab Course Computer Graphics
+
